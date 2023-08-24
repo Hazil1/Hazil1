@@ -2,8 +2,8 @@
 - I’m interested in Data Science and Machine Learning
 - I’m currently learning Python, ML and DL
 - How to reach me t.me/hazils
-- I'm a Senior Geosteering Technologist. I work in Oil and Gas industry more then 10 years
-- I interested in Machine Learning applications in heavy industy, banking and retail also I interested in Computer Vision and NLP.
+- I'm a Senior Geosteering Technologist. I work in Oil and Gas industry more than 10 years
+- I interested in Machine Learning applications in heavy industy, banking and retail also I interested in Computer Vision.
 
   
 <!---
