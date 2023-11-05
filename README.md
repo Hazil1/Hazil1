@@ -19,23 +19,23 @@
 - I interested in ML applications in heavy industy, banking and retail also I interested in Computer Vision.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-title='python' width="40" height="40"/>&bnsp;
+title='python' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-title='jupyter' width="40" height="40"/>&bnsp;
+title='jupyter' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-title='numpy' width="40" height="40"/>&bnsp;
+title='numpy' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-title='pandas' width="40" height="40"/>&bnsp;
+title='pandas' width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
-title='matplotlib' width="40" height="40"/>&bnsp;
+title='matplotlib' width="40" height="40"/>&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-title='seaborn' width="40" height="40"/>&bnsp;
+title='seaborn' width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-title='sklearn' width="40" height="40"/>&bnsp;
+title='sklearn' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-title='psql' width="40" height="40"/>&bnsp;
+title='psql' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-title='pytorch' width="40" height="40"/>&bnsp;
+title='pytorch' width="40" height="40"/>&nbsp;
 
 
 <!---
