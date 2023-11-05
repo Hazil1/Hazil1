@@ -1,6 +1,6 @@
 <div id="headeer" align="center">
-    <h1># Привет, меня зовут Илшат</h1>
-    <h3>## Я начинающий Data Science/ML Engineer</h3>
+    <h1>Привет, меня зовут Илшат</h1>
+    <h3>Я начинающий Data Science/ML Engineer</h3>
 </div>
 
 <div id="socials" align="center">
