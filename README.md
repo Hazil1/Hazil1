@@ -1,9 +1,7 @@
-<div id="headeer" align="center">
-    <h1>Привет, меня зовут Илшат</h1>
-    <h3>Я начинающий Data Science/ML Engineer</h3>
-</div>
+# Привет, меня зовут Илшат!
+## Я начинающий Data Science/ML Engineer
 
-<div id="socials" align="center">
+<div id="socials" align="left">
     <a href="https://www.linkedin.com/in/ilshat-khaziev-b7728169/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><a>
     <a href="https://t.me/hazils">
