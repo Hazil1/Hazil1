@@ -18,6 +18,8 @@
 - I'm a Team leader of Geosteering Department. I work in Oil and Gas industry more than 10 years.
 - I interested in ML applications in heavy industy, banking and retail also I interested in Computer Vision.
 
+
+### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 title='python' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
