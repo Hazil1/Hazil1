@@ -8,15 +8,26 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <ahref="t.me/hazils">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the~badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
 
 ### About me
 - I’m interested in Data Science and Machine Learning
-- I’m currently learning PTorch and Deep Learning 
+- I’m currently learning PyTorch and Deep Learning 
 - I'm a Team leader of Geosteering Department. I work in Oil and Gas industry more than 10 years.
 - I interested in ML applications in heavy industy, banking and retail also I interested in Computer Vision.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+
 
 <!---
 Hazil1/Hazil1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
