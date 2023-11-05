@@ -1,25 +1,23 @@
 <div id="headeer" align="center">
-    <h1>Hi there, I'm Ilshat Khaziev</h1>
-    <h3>Data Scientist from Moscow</h3>
+    <h1>Привет, меня зовут Илшат</h1>
+    <h3>Я начинающий Data Science/ML Engineer</h3>
 </div>
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/ilshat-khaziev-b7728169/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="t.me/hazils">
+    <a href="https://t.me/hazils">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
 
-### About me
-- I’m interested in Data Science and Machine Learning
-- I’m currently learning PyTorch and Deep Learning 
-- I'm a Team leader of Geosteering Department. I work in Oil and Gas industry more than 10 years.
-- I interested in ML applications in heavy industy, banking and retail also I interested in Computer Vision.
+### Обо мне:
+- Сейчас изучаю фреймворк PyTorch и Deep Learning (Computer Vision)
+- Имею опыт работы более 10 лет в нефтегазовой отрасли в области.
+- Мне интересно применение машинного обучения в нефтяной отрасли, в тяжелой промышленности, банкинге и ритейле.
 
-
-### Tools
+### Технологии
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 title='python' width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
