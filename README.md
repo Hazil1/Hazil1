@@ -18,15 +18,24 @@
 - I'm a Team leader of Geosteering Department. I work in Oil and Gas industry more than 10 years.
 - I interested in ML applications in heavy industy, banking and retail also I interested in Computer Vision.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+title='python' width="40" height="40"/>&bnsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+title='jupyter' width="40" height="40"/>&bnsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+title='numpy' width="40" height="40"/>&bnsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+title='pandas' width="40" height="40"/>&bnsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+title='matplotlib' width="40" height="40"/>&bnsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+title='seaborn' width="40" height="40"/>&bnsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+title='sklearn' width="40" height="40"/>&bnsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+title='psql' width="40" height="40"/>&bnsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+title='pytorch' width="40" height="40"/>&bnsp;
 
 
 <!---
