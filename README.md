@@ -1,11 +1,13 @@
-# Привет, меня зовут Илшат!
-### Я начинающий Data Science/ML Engineer
+<div id="headeer" align="center">
+    <h1># Привет, меня зовут Илшат</h1>
+    <h3>## Я начинающий Data Science/ML Engineer</h3>
+</div>
 
-<div id="socials" align="left">
+<div id="socials" align="center">
     <a href="https://www.linkedin.com/in/ilshat-khaziev-b7728169/">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><a>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><a>
     <a href="https://t.me/hazils">
-        <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><a>
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><a>
 </div>
 
 ### Обо мне:
